@@ -1,0 +1,28 @@
+XL2 Sound Level Meter Broadband Reporting:		CL BA\2026-03-03_SLM_000_123_Report.txt
+------------------------------------------
+
+
+# Hardware Configuration
+	Device Info:    	XL2, SNo. A2A-17501-E0, FW4.33
+	Mic Type:       	NTi Audio M4261, SNo. 3302, User calibrated 2026-01-20  18:08
+	Mic Sensitivity:	16.9 mV/Pa
+	Time Zone:      	UTC+01:00 (Europe/Berlin)
+
+# Measurement Setup
+	Profile:        	Full mode
+	Append mode:    	OFF
+	Timer mode:     	continuous
+	Timer set:      	--:--:--
+	k1:             	0.0 dB
+	k2:             	0.0 dB
+	kset Date:      	k-Values not measured
+	Range:          	50 - 150 dB
+
+# Broadband Results
+	Start       	          	Stop        	          
+	Date        	Time      	Date        	Time      	LASmax  	LASmin  	LAFmax  	LAFmin  	LAeq    	Prev_LAeq	LAeq5"  	LAeq5"max	LAeq10' 	LAeq10'max	LAeq15' 	LAeq15'max	LAeq60' 	LAeq60'max	LAPKmax 	LCSmax  	LCSmin  	LCFmax  	LCFmin  	LCeq    	Prev_LCeq	LCeq5"  	LCeq5"max	LCeq10' 	LCeq10'max	LCeq15' 	LCeq15'max	LCeq60' 	LCeq60'max	LCPKmax 	LZSmax  	LZSmin  	LZFmax  	LZFmin  	LZeq    	Prev_LZeq	LZPKmax 	Low(eq/peak)	Overload
+	[YYYY-MM-DD]	[hh:mm:ss]	[YYYY-MM-DD]	[hh:mm:ss]	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]     	[dB]    	[dB]     	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]     	[dB]    	[dB]     	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]     	[dB]    	            	        
+	2026-03-03  	11:32:46  	2026-03-03  	11:38:41  	88.5    	55.4    	94.8    	54.1    	69.5    	-.-      	62.1    	85.0     	69.5    	-.-       	69.5    	-.-       	69.5    	-.-       	106.9   	108.9   	68.3    	113.7   	65.6    	98.7    	-.-      	95.2    	106.9    	98.7    	-.-       	98.7    	-.-       	98.7    	-.-       	119.5   	117.8   	71.3    	122.6   	67.8    	106.8   	-.-      	127.6   	---/---     	        
+
+#CheckSum
+	DB7E7CBA128FF4D7F685F30153577049

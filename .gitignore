@@ -1,0 +1,130 @@
+*.wav
+/Messungen XL2/messungen Bus/Reaper
+*.csv
+*.png
+/Messungen XL2/messungen Bus/plots_LAFmax_dt
+*.xlsx
+PLL Calculator/plots/total/.DS_Store
+PLL Calculator/plots/.DS_Store
+Messungen XL2/messungen NC pink noise/rta_plots/.DS_Store
+Messungen XL2/messungen NC white noise 75/rta_plots/.DS_Store
+Messungen XL2/messungen NC white noise 85/rta_plots/.DS_Store
+Messungen XL2/messungen sounddesign/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/.DS_Store
+Messungen XL2/messungen NC white noise 75/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/.DS_Store
+Messungen XL2/messungen NC white noise 85/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/Messung 3 NC on + Ohropax_report.txt
+Messungen XL2/messungen wfs kunstkopf 14.4/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/Messung 5 NC on + Ohropax_report.txt
+Messungen XL2/messungen wfs kunstkopf 14.4/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/Messung 8 NC on + Ohropax_report.txt
+Messungen XL2/messungen wfs kunstkopf 14.4/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/Messung 2 NC off + Ohropax_report.txt
+Messungen XL2/messungen wfs kunstkopf 14.4/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/Messung 4 NC off + Ohropax_report.txt
+Messungen XL2/messungen wfs kunstkopf 14.4/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/Messung 6 NC off + Ohropax_report.txt
+Messungen XL2/messungen wfs kunstkopf 14.4/plots_LAFmax_dt_LAeq_LZSmax_dt_LZeq/Messung 7 NC off + Ohropax_report.txt
+/PLL Calculator/.idea
+Messungen XL2/messungen NC pink noise/Messung 2 Pink Noise @ 75dBa keine KH/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 17 Pink Noise @75dBA NC on + Ohropax/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 8 Auspielpegel @ -15dB KH + Ohropax/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 9 Auspielpegel @ 0dB KH + Ohropax/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 7 Auspielpegel @ 0dB KH + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 14 White Noise @ 85dBA NC Off + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 12 White Noise @ 85dBA NC Off + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 10 White Noise @ 85dBA NC Off + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 15 White Noise @ 75dBa NC Off + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 13 White Noise @ 75dBa NC Off + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 11 White Noise @ 75dBa NC Off + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 15 White Noise @ 85dBA NC On + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 13 White Noise @ 85dBA NC On + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 11 White Noise @ 85dBA NC On + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 16 White Noise @ 75dBa NC On + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 14 White Noise @ 75dBa NC On + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 12 White Noise @ 75dBa NC On + Ohropax/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 16 Pink Noise @75dBA NC off + Ohropax/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 14 Pink Noise @75dBA NC off + Ohropax/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 12 Pink Noise @75dBA NC off + Ohropax/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 10 Pink Noise @75dBA NC off + Ohropax/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 15 Pink Noise @75dBA NC on + Ohropax/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 13 Pink Noise @75dBA NC on + Ohropax/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 11 Pink Noise @75dBA NC on + Ohropax/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 10 White Noise @ 75dBA keine KH/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 2 White Noise @ 85dBa keine KH/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 1 White Noise @ 85dBa keine KH/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 2 White Noise @ 75dBA keine KH/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 3 Auspielpegel @ -30dB/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 2 Auspielpegel @ -15dB/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 9 White Noise @ 85dBA ohne KH/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 7 White Noise @ 85dBa NC off/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 5 White Noise @ 85dBa NC off/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 3 White Noise @ 85dBa NC off/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 7 White Noise @ 75dBa NC off/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 5 White Noise @ 75dBa NC off/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 6 Auspielpegel @ 0dB/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 5 Auspielpegel @ 0dB/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 4 Auspielpegel @ 0dB/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/Messung 1 Auspielpegel @ 0dB/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 8 White Noise @ 85dBa NC on/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 6 White Noise @ 85dBa NC on/.DS_Store
+Messungen XL2/messungen NC white noise 85/Messung 4 White Noise @ 85dBa NC on/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 8 White Noise @ 75dBA NC on/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 6 White Noise @ 75dBA NC on/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 4 White Noise @ 75dBA NC on/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 3 White Noise @75dBA NC off/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 6 NC off mittl. Aufsätze kurz/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 8 NC off große Aufsätze kurz/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 7 NC on mittl. Aufsätze kurz/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 9 Pink Noise @75dBA keine KH/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 9 NC on große Aufsätze kurz/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 7 Pink Noise @ 75dBa NC off/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 5 Pink Noise @ 75dBa NC off/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 3 Pink Noise @ 75dBa NC off/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 8 Pink Noise @ 75dBa NC on/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 6 Pink Noise @ 75dBa NC on/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 4 Pink Noise @ 75dBa NC on/.DS_Store
+Messungen XL2/messungen NC white noise 75/Messung 1 kein Noise keine KH/.DS_Store
+Messungen XL2/messungen NC pink noise/Messung 1 ohne Pink Noise ohne KH/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 18 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 17 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 15 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 13 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 19 NC on + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 16 NC on + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 14 NC on + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 18 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 17 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 15 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 13 NC off + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 19 NC on + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 16 NC on + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 14 NC on + Ohropax/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/Messung 12 ohne KH /.DS_Store
+Messungen XL2/messungen sounddesign/messung wfs 07.04.27 16.48/.DS_Store
+Messungen XL2/messungen sounddesign/messung wfs 02.04.26 17.01/.DS_Store
+Messungen XL2/messungen sounddesign/messung whitenoise nc off/.DS_Store
+Messungen XL2/messungen sounddesign/messung white noise nc on/.DS_Store
+Messungen XL2/messungen Bus/messung Linie 30 04.03.26 11.10/.DS_Store
+Messungen XL2/messungen Bus/messung Linie 111 03.03.26 9.55/.DS_Store
+Messungen XL2/messungen Bus/messung Linie 3 05.03.26 12.12/.DS_Store
+Messungen XL2/messungen Bus/messung Linie 2 05.03.26 11.46/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 12 ohne KH /.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/averages/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 1 keine KH/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 10 NC off/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 4 NC off/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 2 NC off/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 11 NC on/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 5 NC on/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/Messung 3 NC on/.DS_Store
+Messungen XL2/messungen sounddesign/messung wfs kurz/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/averages/.DS_Store
+Messungen XL2/messungen NC pink noise/averages/.DS_Store
+Messungen XL2/messungen Referenzschalldruckpegel/.DS_Store
+Messungen XL2/messungen wfs kunstkopf 14.4/.DS_Store
+Messungen XL2/messungen NC white noise 85/.DS_Store
+Messungen XL2/messungen NC white noise 75/.DS_Store
+Messungen XL2/messungen wfs kunstkopf/.DS_Store
+Messungen XL2/messungen NC pink noise/.DS_Store
+Messungen XL2/messungen sounddesign/.DS_Store
+PLL Calculator/referenzmessungen/.DS_Store
+PLL Calculator/plls_relative/.DS_Store
+Messungen XL2/messungen Bus/.DS_Store
+PLL Calculator/.DS_Store
+Messungen XL2/.DS_Store
+.DS_Store

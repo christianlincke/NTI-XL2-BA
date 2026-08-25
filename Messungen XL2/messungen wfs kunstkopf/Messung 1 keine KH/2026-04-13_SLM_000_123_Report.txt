@@ -1,0 +1,28 @@
+XL2 Sound Level Meter Broadband Reporting:		KU100\2026-04-13_SLM_000_123_Report.txt
+------------------------------------------
+
+
+# Hardware Configuration
+	Device Info:    	XL2, SNo. A2A-17501-E0, FW4.33
+	Mic Sensitivity:	8.9 mV/Pa
+	                	(User calibrated 2026-04-13  10:29)
+	Time Zone:      	UTC+01:00 (Europe/Berlin)
+
+# Measurement Setup
+	Profile:        	Full mode
+	Append mode:    	OFF
+	Timer mode:     	continuous
+	Timer set:      	--:--:--
+	k1:             	0.0 dB
+	k2:             	0.0 dB
+	kset Date:      	k-Values not measured
+	Range:          	30 - 130 dB
+
+# Broadband Results
+	Start       	          	Stop        	          
+	Date        	Time      	Date        	Time      	LASmax  	LASmin  	LAFmax  	LAFmin  	LAeq    	Prev_LAeq	LAeq5"  	LAeq5"max	LAeq10' 	LAeq10'max	LAeq15' 	LAeq15'max	LAeq60' 	LAeq60'max	LAPKmax 	LCSmax  	LCSmin  	LCFmax  	LCFmin  	LCeq    	Prev_LCeq	LCeq5"  	LCeq5"max	LCeq10' 	LCeq10'max	LCeq15' 	LCeq15'max	LCeq60' 	LCeq60'max	LCPKmax 	LZSmax  	LZSmin  	LZFmax  	LZFmin  	LZeq    	Prev_LZeq	LZPKmax 	Low(eq/peak)	Overload
+	[YYYY-MM-DD]	[hh:mm:ss]	[YYYY-MM-DD]	[hh:mm:ss]	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]     	[dB]    	[dB]     	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]     	[dB]    	[dB]     	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]      	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]     	[dB]    	            	        
+	2026-04-13  	10:42:06  	2026-04-13  	10:45:14  	78.8    	59.8    	81.5    	55.7    	72.3    	-.-      	69.7    	78.2     	72.4    	-.-       	72.4    	-.-       	72.4    	-.-       	95.5    	96.9    	75.3    	99.8    	72.4    	90.8    	-.-      	91.4    	96.1     	90.8    	-.-       	90.8    	-.-       	90.8    	-.-       	107.9   	97.6    	76.4    	100.4   	73.2    	91.6    	-.-      	108.9   	---/---     	        
+
+#CheckSum
+	A11A19ACF2D105E6F7B0889C9B7FC750

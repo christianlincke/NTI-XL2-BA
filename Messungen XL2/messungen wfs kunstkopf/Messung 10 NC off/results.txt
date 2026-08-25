@@ -1,0 +1,5 @@
+NC off
+LAFmax_dt 80.7 db
+LAeq 72.2 db
+LZSmax_dt 98.0 db
+LZeq 92.0 db

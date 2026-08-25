@@ -1,0 +1,5 @@
+Report
+LAFmax_dt: 82.2 db
+LAeq: 72.7 db
+LZSmax_dt: 97.9 db
+LZeq: 91.8 db

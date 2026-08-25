@@ -1,0 +1,5 @@
+Ohne KH
+LAFmax_dt 81.5 db
+LAeq 72.3 db
+LZSmax_dt 97.6 db
+LZeq 91.6 db
